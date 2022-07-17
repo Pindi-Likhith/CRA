@@ -1,0 +1,14 @@
+
+.header-division
+{
+   
+    background-color: #5E5C5C;
+    height:6.8rem;
+    display: flex;
+    align-items: center;
+    
+}
+.header-h1{
+
+    margin-left: 8rem;
+}
